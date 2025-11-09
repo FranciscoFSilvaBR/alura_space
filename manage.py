@@ -1,4 +1,5 @@
 #!/usr/bin/env python
+#Revisao 09 nov 25
 """Django's command-line utility for administrative tasks."""
 import os
 import sys
